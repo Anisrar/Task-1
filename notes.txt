@@ -53,6 +53,7 @@ Objects and its Internal Representation In JavaScript
       combination of these primitive data-types as well as reference
       data-types.
   =>  An object, is a reference data type.
+by anish
 
   =>  Variables that are assigned a reference value are given a reference 
       or a pointer to that value. That reference or pointer points to the 
